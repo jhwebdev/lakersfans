@@ -1,0 +1,62 @@
+<!DOCTYPE HTML!>
+
+<html>
+
+	<head>
+		<title>Lakers Fansite</title>
+		<link href="https://fonts.googleapis.com/css?family=Catamaran" rel="stylesheet">
+	</head>
+	
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=2.0">
+	<link rel="stylesheet" href="style.css"/>
+	
+	
+	
+	<body>
+	
+	<div id="wick">
+	<img src="lakers-fans-waving-white-towels.jpg" width="1502" height="474"> </img>
+	</div>
+	
+	<div id="lakerslogobox">
+	<div id="matt">
+		<a href="lakers_fansite.html">
+		<img src="lakerslogo.png" width="200" height="150">
+		</a>
+	</div>
+	
+	<div id="bossbaby"><h1 id="boss">Welcome To The New Era of The Lakers</h1>
+	</div>
+	</div>
+	
+		<center><div class="bigboy">
+			<a href="page2.html">Meet The Players/Roster</a>
+			<a href="mfp.html">Famous Players</a>
+			<a href="https://basketball.realgm.com/nba/teams/Los-Angeles-Lakers/13/Stats?rookies=">Rookies</a>
+			<a href="https://www.youtube.com/watch?v=9iMXO_I8wM0">We Miss Kobe Video</a>
+			<a href="#">Big Baller Brand Fansite</a>
+		</div></center>
+		
+		<div id="sick">
+			<div id="mick">
+				<h2 id="boss2">LAKER NATION ARE YOU READY TO BALL OUT?! </h2>
+				<p id="boss3">The beginning of the Minneapolis dynasty, an ongoing rivalry with the Celtics, and the amazing Showtime Dynasty with Magic Johnson. Where old time players like Wilt Chamberlain and Kareem Abdul-Jabbar have left their mark on this franchise. The rise of the LA Lakers has always been strong. With amazing stars like Kobe Byrant aka the Black Mamba, Shaq, Pau Gasol, and many role players who had built this franchise to who it is today. Now the new era of the Lakers shall rise.. With our new young core of Brandon Ingram, Julius Randle, Kyle Kuzma, the one and only Lonzo Ball, and now with the addition of All-Star PG Isaiah Thomas, we shall push us all the way to the playoffs and finally show you the style, swag, saucy moves, and plays the modern day SHOWTIME LAKERS!
+				</p>
+				<div id="videobox">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/Z1CkHAUAlYg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+				<p id="boss4">Recent Highlights: Lakers vs Denver // Win: Lakers 112 Nuggets 103</p>
+				</div>
+			</div>
+			</div>
+			
+			<div id="jumbo">
+				<center><p> Lakers Fansite // Phone: 1-800-LAKERS // lakersfanboys@gmail.com </p></center>
+			</div>
+			
+				
+			
+	</body>
+	
+</html>
+	

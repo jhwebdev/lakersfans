@@ -1,0 +1,405 @@
+#lakerslogobox {
+	border: 7px solid
+	black;
+	background-color: #FCB136;
+	border: -100px 15px 10px 15px;
+	padding: 8px;
+	margin: 30px 10px -275px 175px;
+	width: 80%;
+	height: 25%;
+	grid-area: header;
+	}
+	
+	
+	
+	#matt {
+	padding: 35px 5px 2px 10px;
+	margin: -14px 15px 10px 20px;
+	display:inline-block;
+	}
+	
+	#bossbaby {
+	padding: 80px 150px 2px 255px;
+	margin: auto;
+	display:inline-block;
+	background-color: #FCB136;
+	vertical-align: top;
+	}
+	
+	#boss {
+	font-family: Century Gothic;
+	}
+	
+	#boss2 {
+	font-family: Century Gothic;
+	font-size: 30px;
+	}
+	
+	#boss3 {
+	font-family: Catamaran;
+	font-size: 17px;
+	}
+	
+	
+	
+	
+	
+	body {
+	background-color: #451465;
+	}
+	
+	#boss4 {
+	font-family: Century Gothic;
+	}
+	
+	#sick {
+	border: 7px solid
+	black;
+	background-color: #FCB136;
+	border: 10px 15px 10px 15px;
+	padding: 8px;
+	margin: auto;
+	width: 1502px;
+	height: 475px;
+	}
+	
+	
+	#fick {
+	border: 7px solid
+	black;
+	background-color: #FCB136;
+	border: 10px 15px 10px 15px;
+	padding: 8px;
+	margin: auto;
+	width: 1520px;
+	height: 1395px;
+	}
+	
+		#pick {
+	border: 7px solid
+	black;
+	background-color: #FCB136;
+	border: 10px 15px 10px 15px;
+	padding: 8px;
+	margin: auto;
+	width: 1520px;
+	height: 1115px;
+	}
+	
+	#mick {
+	background-color: #FCB136;
+	border: 10px 15px 10px 15px;
+	padding: 8px;
+	margin: 0px 0px 500px 0px;
+	width: 700px;
+	height: 400px;
+	}
+	
+	
+	#wick {
+	border: 6px solid
+	#FCB136;
+	border: 10px 15px 10px 15px;
+	padding: 8px;
+	margin: auto;
+	width: 1502px;
+	height: 475px;
+	}
+	
+	#videobox {
+	border: 7px solid
+	black;
+	background-color: #FCB136;
+	border: 10px 15px 10px 15px;
+	padding: 8px;
+	margin: -287px -225px -225px 900px;
+	width: 560px;
+	box-shadow: 6px 9px #451465;
+	height: 345px;
+	}
+	
+	#picturebox {
+	border: 7px solid
+	black;
+	padding: 8px;
+	background-color: #451465;
+	width: 1145px;
+	margin: auto;
+	height: 1230px;
+	}
+	
+	#pictureboxx {
+	border: 7px solid black;
+	padding: 8px;
+	background-color: #451465;
+	width: 275px;
+	margin: -10px -10px -10px 44px;
+	height: 285px;
+	}
+	
+	#pictureboxxx {
+	border: 7px solid black;
+	padding: 8px;
+	background-color: #451465;
+	width: 275px;
+	margin: -326px -10px -10px 358px;
+	height: 285px;
+	}
+	
+	#magicbox {
+	border: 7px solid black;
+	padding: 8px;
+	background-color: #451465;
+	width: 275px;
+	margin: -326px -10px -10px 358px;
+	height: 285px;
+	}
+	
+	#kareembox {
+	border: 7px solid black;
+	padding: 8px;
+	background-color: #451465;
+	width: 275px;
+	margin: -326px -10px -10px 358px;
+	height: 285px;
+	}	
+	
+	#jerrybox {
+	border: 7px solid black;
+	padding: 8px;
+	background-color: #451465;
+	width: 275px;
+	margin: -10px -10px -10px -1134px;
+	height: 285px;
+	}
+	
+	#wiltbox {
+	border: 7px solid black;
+	padding: 8px;
+	background-color: #451465;
+	width: 275px;
+	margin: -326px -10px -10px 358px;
+	height: 285px;
+	}
+	
+	#worthybox {
+	border: 7px solid black;
+	padding: 8px;
+	background-color: #451465;
+	width: 275px;
+	margin: -326px -10px -10px 358px;
+	height: 285px;
+	}
+	
+	#mikanbox {
+	border: 7px solid black;
+	padding: 8px;
+	background-color: #451465;
+	width: 275px;
+	margin: -6px 10px 10px -1135px;
+	height: 285px;
+	}
+	
+	#gasolbox {
+	border: 7px solid black;
+	padding: 8px;
+	background-color: #451465;
+	width: 275px;
+	margin: -326px 10px 10px 1106px;
+	height: 285px;
+	}
+	
+	#gifbox {
+	border: 7px solid black;
+	padding: 8px;
+	background-color: #451465;
+	width: 635px;
+	margin: -325px -10px -10px -754px;
+	height: 317px;
+	}
+	
+	#rookiesgifbox {
+	border: 7px solid black;
+	padding: 8px;
+	background-color: #451465;
+	width: 500px;
+	margin: -75px -10px -10px 30px;
+	height: 195px;
+	}
+	
+	#rookiesgifbox2 {
+	border: 7px solid black;
+	padding: 8px;
+	background-color: #451465;
+	margin: 25px -100px 10px 165px;
+	width: 56%;
+	height: 27%;
+	}
+	
+	#text-box {
+	padding: 8px;
+	margin: 300px 50px 50px -575px;
+	width: 200%;
+	height: 5%;
+	}
+	
+	
+	#rookie {
+	border: 7px solid
+	black;
+	background-color: #FCB136;
+	padding: 8px;
+	margin: 10px 10px 10px 70px;
+	width: 1700px;
+	height: 705px;
+	}
+	
+	#rookie1 {
+		display: flex;
+		padding: 5px;
+		width: 895px;
+		height: 700px;
+	}
+	
+		#rookie2 {
+		display: flex;
+		padding: 5px;
+		width: 895px;
+		height: 700px;
+		margin: -709px 100px 100px 795px
+	}
+		
+	
+	
+	
+	#lonzobox {
+	display: flex;
+	border: 7px solid black;
+	margin: auto;
+	padding: 8px;
+	background-color: #451465;
+	position: absolute;
+	width: 17.1%;
+	height: 27%;
+	}
+	
+	#hartbox {
+	display: flex;
+	border: 7px solid black;
+	margin: auto;
+	padding: 8px;
+	background-color: #451465;
+	position:relative;
+	top: -209px;
+	left: 30px;
+	width: 40%;
+	height: 36%;
+	}
+	
+	#brybox {
+	display: flex;
+	border: 7px solid black;
+	margin: auto;
+	padding: 8px;
+	background-color: #451465;
+	position: relative;
+	top: 90px;
+	width: 36.5%;
+	height: 36%;
+	}
+	
+	#kuzbox {
+	display: flex;
+	border: 7px solid black;
+	padding: 8px;
+	margin: auto;
+	background-color: #451465;
+	position: relative;
+	top: 90px;
+	right: 305px;
+	width: 35.5%;
+	height: 36%;
+	}
+	
+	
+	
+	
+		#jumbo {
+		border: 7px solid
+		black;
+		background-color: #FCB136;
+		font-family: Catamaran;
+		font-size: 16px;
+		margin: 10px 177px 10px 177px;
+		width: 1520px;
+		}
+
+	
+			.column {
+			display: inline-block;
+			width: 33.33%;
+			padding: 15px;
+			vertical-align: top;
+			margin: -4px;
+		}
+	
+		@media screen and (max-width: 600px) {
+			.column {
+				width: 100%;
+			}
+		}
+	
+		.flex-container {
+		display: flex;
+		flex-wrap: wrap;
+		width: 1550px;
+		height: 1000px;
+		margin: auto;
+	}
+
+			
+		.bigboy {
+			border: 7px solid
+			black;
+			background-color: #FCB136;
+			font-family: Catamaran;
+			margin: 285px 0px 10px 0px;
+			width: 80%;
+			height: 5%;
+			text-align: center;
+			grid-area: header;
+			}
+			
+		.bigboy a {
+			color: #451465;
+			text-decoration: none;
+			padding: 8px 16px;
+			display: inline-block;
+			}
+	
+		.bigboy a:hover {
+			color: white;
+			background-color: #451465;
+			height: 66%;
+			}
+
+	.container {
+	display: grid;
+	grid-template-columns: repeat(5, lfr);
+	grid-template-rows: auto;
+	
+
+	grid-template-areas:
+		"header header header header header"
+		"content content content content content"
+		"footer footer footer footer footer";
+}
+
+
+	
+		
+		
+				 
+				 
+				 
+		
