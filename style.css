@@ -82,8 +82,8 @@
 	border: 10px 15px 10px 15px;
 	padding: 8px;
 	margin: auto;
-	width: 1520px;
-	height: 1115px;
+	width: 80%;
+	height: 162%;
 	}
 	
 	#mick {
@@ -119,6 +119,7 @@
 	}
 	
 	#picturebox {
+	display: inline-block;
 	border: 7px solid
 	black;
 	padding: 8px;
@@ -129,83 +130,92 @@
 	}
 	
 	#pictureboxx {
+	display: inline-block;
 	border: 7px solid black;
 	padding: 8px;
 	background-color: #451465;
 	width: 275px;
-	margin: -10px -10px -10px 44px;
+	margin: auto;
 	height: 285px;
 	}
 	
 	#pictureboxxx {
+		display: inline-block;
 	border: 7px solid black;
 	padding: 8px;
 	background-color: #451465;
 	width: 275px;
-	margin: -326px -10px -10px 358px;
+	margin: auto;
 	height: 285px;
 	}
 	
 	#magicbox {
+		display: inline-block;
 	border: 7px solid black;
 	padding: 8px;
 	background-color: #451465;
 	width: 275px;
-	margin: -326px -10px -10px 358px;
+	margin: auto;
 	height: 285px;
 	}
 	
 	#kareembox {
+		display: inline-block;
 	border: 7px solid black;
 	padding: 8px;
 	background-color: #451465;
 	width: 275px;
-	margin: -326px -10px -10px 358px;
+	margin: auto;
 	height: 285px;
 	}	
 	
 	#jerrybox {
+		display: inline-block;
 	border: 7px solid black;
 	padding: 8px;
 	background-color: #451465;
 	width: 275px;
-	margin: -10px -10px -10px -1134px;
+	margin: auto;
 	height: 285px;
 	}
 	
 	#wiltbox {
+		display: inline-block;
 	border: 7px solid black;
 	padding: 8px;
 	background-color: #451465;
 	width: 275px;
-	margin: -326px -10px -10px 358px;
+	margin: auto;
 	height: 285px;
 	}
 	
 	#worthybox {
+		display: inline-block;
 	border: 7px solid black;
 	padding: 8px;
 	background-color: #451465;
 	width: 275px;
-	margin: -326px -10px -10px 358px;
+	margin: auto;
 	height: 285px;
 	}
 	
 	#mikanbox {
+		display: inline-block;
 	border: 7px solid black;
 	padding: 8px;
 	background-color: #451465;
 	width: 275px;
-	margin: -6px 10px 10px -1135px;
+	margin: auto;
 	height: 285px;
 	}
 	
 	#gasolbox {
+	display: inline-block;
 	border: 7px solid black;
 	padding: 8px;
 	background-color: #451465;
 	width: 275px;
-	margin: -326px 10px 10px 1106px;
+	margin: auto;
 	height: 285px;
 	}
 	
@@ -213,9 +223,9 @@
 	border: 7px solid black;
 	padding: 8px;
 	background-color: #451465;
-	width: 635px;
-	margin: -325px -10px -10px -754px;
-	height: 317px;
+	width: 42%;
+	margin: auto;
+	height: 27%;
 	}
 	
 	#rookiesgifbox {
@@ -250,23 +260,22 @@
 	background-color: #FCB136;
 	padding: 8px;
 	margin: 10px 10px 10px 70px;
-	width: 1700px;
-	height: 705px;
+	width: 50%;
+	height: 50%;
 	}
 	
 	#rookie1 {
-		display: flex;
+		display: grid;
 		padding: 5px;
-		width: 895px;
-		height: 700px;
+		width: 50%;
+		height: 50%;
 	}
 	
 		#rookie2 {
-		display: flex;
+		display: grid;
 		padding: 5px;
-		width: 895px;
-		height: 700px;
-		margin: -709px 100px 100px 795px
+		width: 50%;
+		height: 50%;
 	}
 		
 	
@@ -279,19 +288,16 @@
 	padding: 8px;
 	background-color: #451465;
 	position: absolute;
-	width: 17.1%;
+	width: 17%;
 	height: 27%;
 	}
 	
 	#hartbox {
 	display: flex;
 	border: 7px solid black;
-	margin: auto;
 	padding: 8px;
 	background-color: #451465;
-	position:relative;
-	top: -209px;
-	left: 30px;
+	position: relative;
 	width: 40%;
 	height: 36%;
 	}
@@ -304,7 +310,7 @@
 	background-color: #451465;
 	position: relative;
 	top: 90px;
-	width: 36.5%;
+	width: 36%;
 	height: 36%;
 	}
 	
@@ -317,11 +323,33 @@
 	position: relative;
 	top: 90px;
 	right: 305px;
-	width: 35.5%;
+	width: 35%;
 	height: 36%;
 	}
 	
+	input[type=text] {
+	padding: 10px;
+	margin-top: 10px;
+	box-sizing: border-box;
+}
+
+	input[type=submit] {
+	padding: 10px;
+	margin-top: 10px;
+	background-color: #FCB136;
+}
 	
+	
+	#votebox {
+	border: 7px solid
+	black;
+	background-color: #FCB136;
+	border: 10px 15px 10px 15px;
+	padding: 8px;
+	margin: auto;
+	width: 1500px;
+	height: 345px;
+}
 	
 	
 		#jumbo {
@@ -332,7 +360,7 @@
 		font-size: 16px;
 		margin: 10px 177px 10px 177px;
 		width: 1520px;
-		}
+}
 
 	
 			.column {
@@ -359,6 +387,7 @@
 
 			
 		.bigboy {
+			display: flex;
 			border: 7px solid
 			black;
 			background-color: #FCB136;
@@ -366,7 +395,8 @@
 			margin: 285px 0px 10px 0px;
 			width: 80%;
 			height: 5%;
-			text-align: center;
+			justify-content: space-between;
+			flex-flow: row-wrap;
 			grid-area: header;
 			}
 			
@@ -374,7 +404,7 @@
 			color: #451465;
 			text-decoration: none;
 			padding: 8px 16px;
-			display: inline-block;
+			display: inline-block
 			}
 	
 		.bigboy a:hover {
@@ -393,6 +423,65 @@
 		"header header header header header"
 		"content content content content content"
 		"footer footer footer footer footer";
+}
+
+
+.mySlides {
+	display: flex;
+}
+
+.prev, .next {
+	cursor: pointer;
+	padding: 16px;
+	color: gold;
+	font-weight: bold;
+	font-size: 15px;
+	transition: 0.6s ease;
+	border-radius: 0 3px 3px 0;
+	margin: auto;
+}
+
+.next {
+	right: 0;
+	border-radius: 3px 0 0 3px; 
+}
+
+.prev:hover, .next:hover {
+	background-color: #4B0082;
+}
+
+.text {
+	color: #f2f2f2;
+	font-size: 15px;
+	padding: 8px 12px;
+	position: absolute;
+	bottom: 8px;
+	width: 100%;
+	text-align: center;
+	display: inline-block;
+}
+
+.numbertext {
+	color: gold;
+	font-size: 12px;
+	padding: 8px 12px;
+	display: inline-block; 
+	top: 0;
+}
+
+.dot {
+	cursor: pointer;
+	height: 15px;
+	width: 15px;
+	margin: 0 2px;
+	background-color: #bbb;
+	border-radius: 50%;
+	display: inline-block;
+	transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+	background-color: #717171;
 }
 
 
